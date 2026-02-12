@@ -1,6 +1,6 @@
 import base64
 import gzip
-import xor
+from . import xor
 
 def decryptLevelString(levelString: str = ""):
     if not levelString:

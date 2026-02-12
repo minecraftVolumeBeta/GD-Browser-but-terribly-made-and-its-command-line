@@ -1,13 +1,13 @@
-import GDLevelData as levelData
-import GDLevelSearch as levelSearch
-import uploadGJAccComment20 as uploadComment
-import uploadGJComment21 as uploadLevelComment
-import decryptGDSaveFile as decryptSave
-import likeGJItem211 as likeItem
-import getGJComments21 as getComments
-import getGJUsers20 as getProfile
-import getAccountInfoFromLogin as getLoginInfo
-import getGJUserList20 as getUserList
+from code import GDLevelData as levelData
+from code import GDLevelSearch as levelSearch
+from code import uploadGJAccComment20 as uploadComment
+from code import uploadGJComment21 as uploadLevelComment
+from code import decryptGDSaveFile as decryptSave
+from code import likeGJItem211 as likeItem
+from code import getGJComments21 as getComments
+from code import getGJUsers20 as getProfile
+from code import getAccountInfoFromLogin as getLoginInfo
+from code import getGJUserList20 as getUserList
 import sys
 import json
 import time

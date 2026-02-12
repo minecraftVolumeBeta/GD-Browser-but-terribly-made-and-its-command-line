@@ -1,7 +1,7 @@
 import json
 import os
 import tempfile
-import analyzeJsonLevel as analyze
+from . import analyzeJsonLevel as analyze
 
 # Mapping for Start Object Header Keys
 START_OBJ_ATTR_MAP = {

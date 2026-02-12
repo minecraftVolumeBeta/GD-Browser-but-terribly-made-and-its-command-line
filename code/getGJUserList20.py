@@ -1,6 +1,6 @@
 import requests
-import generateGJP2
-import getGJUserInfo20
+from . import generateGJP2
+from . import getGJUserInfo20
 
 def getGJUserList20(accountID: int = 0, password: str = "", type: int = 0):
     gjp2 = generateGJP2.generate_gjp2(password, "mI29fmAnxgTs")

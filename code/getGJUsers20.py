@@ -1,4 +1,4 @@
-import getGJUserInfo20 as getHisProfile
+from . import getGJUserInfo20 as getHisProfile
 import requests
 
 def getGJUsers20(searchStr: str = "", type: int = 0):

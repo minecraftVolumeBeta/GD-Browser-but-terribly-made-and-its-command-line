@@ -1,7 +1,7 @@
 import base64
 import gzip
-import readJSON
-import xor
+from . import readJSON
+from . import xor
 
 def decryptGDSaveFile(filePath: str = ""):
     try:

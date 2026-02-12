@@ -1,7 +1,7 @@
-import generateGJP2 as gjp2Gen
-import readJSON
-import generateCHK as chkGen
-import getGJUsers20 as getAccID
+from . import generateGJP2 as gjp2Gen
+from . import readJSON
+from . import generateCHK as chkGen
+from . import getGJUsers20 as getAccID
 import base64
 import requests
 

@@ -1,12 +1,12 @@
 import requests
 import base64
 import zlib
-import readJSON as readJson
-import decryptGDSaveFile as decryptLevel
-import levelAnalysis
-import analyzeJsonLevel as analyzeJson
+from . import readJSON as readJson
+from . import decryptGDSaveFile as decryptLevel
+from . import levelAnalysis
+from . import analyzeJsonLevel as analyzeJson
 import os
-import xor
+from . import xor
 import json
 
 def getLevelData(response: str = "", levelID: int = 0):

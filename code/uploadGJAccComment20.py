@@ -1,7 +1,7 @@
 import requests
 import base64
-import readJSON as readJson
-import generateGJP2 as genGjp2
+from . import readJSON as readJson
+from . import generateGJP2 as genGjp2
 
 def uploadGJAccComment20(accountID, password, comment):
     gjp2 = genGjp2.generate_gjp2(password, "mI29fmAnxgTs")

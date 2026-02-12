@@ -1,7 +1,7 @@
 import base64
 import hashlib
-import readJSON
-import xor
+from . import readJSON
+from . import xor
 
 def generate_commentChk(key = "29481", values = "", salt: str = "0xPT6iUrtws0J") -> str:
     values += salt

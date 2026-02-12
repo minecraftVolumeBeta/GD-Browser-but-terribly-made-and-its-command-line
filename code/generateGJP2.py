@@ -1,7 +1,7 @@
 import base64
 import hashlib
-import readJSON
-import xor
+from . import readJSON
+from . import xor
 
 def generate_gjp2(password: str = "", salt: str = "mI29fmAnxgTs") -> str:
 	password += salt
