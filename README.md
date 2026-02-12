@@ -1,19 +1,19 @@
 # GD Browser but terrible and its command line
 
-cool ig
+cool ig? (why did i make this)
 
 ## Navigation
 
-Description: [desc](#description)
-How to use: [here](#how-to-use)
-Bugs: [bugs](#bugs)
-Credits: [credits!!!](#credits)
-Footnote: [footnote by me](#footnote)
+> Description: [desc](#description)\
+> How to use: [here](#how-to-use)\
+> Bugs: [bugs](#bugs)\
+> Credits: [credits!!!](#credits)\
+> Footnote: [footnote by me](#footnote)\
 
 ## Description
 
 Literally just a GD Browser by Colon clone but i cant make a UI and its local and its command line and theres basically 5 features.
-(I kinda did manage to make a level analysis thing tho)
+(I kinda did manage to make a level analysis thing tho)\
 Best i can do for now LMFAO.
 
 ## How to use
@@ -21,19 +21,20 @@ Best i can do for now LMFAO.
 I think downloading everything/pulling this repo and then just using ```python.exe mainMenu.py``` in the directory would work. (I suck at programming and have NO idea what I am doing, and tbh idk if that even works)
 
 so uh key features! (yay)
-> somehow a level analysis! (colon removed it from GDBrowser and obviously it was much better than mine but i mean anything > 0, its simple math.
-> regular searching for levels! (use gdbrowser for that one lol dont use mine its trash)
-> likeGJItem211 (??????)
-> get comments from any user or any level! (also 100% worse than gdbrowser)
-> POST comments as your account to a level or your own profile! (requires login because yes rob did think of some post request originating from nonexistent accountIDs, hes not THAT bad)
-> get anyone's profile! (PLEASE USE [THIS](https://gdbrowser.com/search) INSTEAD WHY ARE YOU USING TS)
-> get your own friends and blocked users! (what)
+
+> somehow a level analysis! (colon removed it from GDBrowser and obviously it was much better than mine but i mean anything > 0, its simple math.\
+> regular searching for levels! (use gdbrowser for that one lol dont use mine its trash)\
+> likeGJItem211 (??????)\
+> get comments from any user or any level! (also 100% worse than gdbrowser)\
+> POST comments as your account to a level or your own profile! (requires login because yes rob did think of some post request originating from nonexistent accountIDs, hes not THAT bad)\
+> get anyone's profile! (PLEASE USE [THIS](https://gdbrowser.com/search) INSTEAD WHY ARE YOU USING TS)\
+> get your own friends and blocked users! (what)\
 
 please note that rate limits exist and i am NOT responsible for you getting IP blocked from rob's servers if you decide to download the FULL RAW LEVEL DATA of khorne 23 times per second.
 
 ## Bugs
 
-I am CERTAIN that this thing has at least like 359 bugs that i somehow missed when uploading ts.
+I am CERTAIN that this thing has at least like 359 bugs that i somehow missed when uploading ts.\
 Doesn't help that rob's server responses look like if a cat fell asleep on the keyboard
 
 ## Credits
