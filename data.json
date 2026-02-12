@@ -1,0 +1,37 @@
+{
+	"secrets": [
+		{"name": "Common", "value": "Wmfd2893gb7"},
+		{"name": "Account", "value": "Wmfv3899gc9"},
+		{"name": "Level", "value": "Wmfv2898gc9"},
+		{"name": "Mod", "value": "Wmfp3879gc3"},
+		{"name": "Admin", "value": "Wmfx2878gb9"}
+	],
+	"xorKeys": [
+		{"name": "playerSave", "value": 11, "type": "Singular"},
+		{"name": "playerMsgs", "value": 14251, "type": "Cycled"},
+		{"name": "vaultCodes", "value": 19283, "type": "Cycled"},
+		{"name": "dailyChallenges", "value": 19847, "type": "Cycled"},
+		{"name": "levelPassword", "value": 26364, "type": "Cycled"},
+		{"name": "commentIntegrity", "value": 29481, "type": "Cycled"},
+		{"name": "accPassword", "value": 37526, "type": "Cycled"},
+		{"name": "levelLeaderboardIntegrity", "value": 39673, "type": "Cycled"},
+		{"name": "levelIntegrity", "value": 41274, "type": "Cycled"},
+		{"name": "loadData", "value": 48291, "type": "Cycled"},
+		{"name": "multiplayer", "value": 52832, "type": "Cycled"},
+		{"name": "musicLibrarySecret", "value": 57709, "type": "Cycled"},
+		{"name": "ratingIntegrity", "value": 58281, "type": "Cycled"},
+		{"name": "chestRewards", "value": 59182, "type": "Cycled"},
+		{"name": "statSubmissionIntegrity", "value": 85271, "type": "Cycled"}
+	],
+	"salts": [
+		{"name": "levelUploadSeed", "value": "xI25fpAapCQg"},
+		{"name": "commentChk", "value": "xPT6iUrtws0J"},
+		{"name": "likeRateChk", "value": "ysg6pUrtjn0J"},
+		{"name": "updateProfileChk", "value": "xI35fsAapCRg"},
+		{"name": "levelLeaderboardChk", "value": "yPg6pUrtWn0J"},
+		{"name": "vaultAndChamberCodes", "value": "ask2fpcaqCQ2"},
+		{"name": "getGJChallengesHash", "value": "oC36fpYaPtdg"},
+		{"name": "getGJRewardsHash", "value": "pC26fpYaQCtg"},
+		{"name": "GJP2", "value": "mI29fmAnxgTs"}
+	]
+}
