@@ -8,6 +8,7 @@ from code import getGJComments21 as getComments
 from code import getGJUsers20 as getProfile
 from code import getAccountInfoFromLogin as getLoginInfo
 from code import getGJUserList20 as getUserList
+from code import getGJSongInfo
 import sys
 import json
 import time
@@ -135,7 +136,8 @@ def mainMenu():
     print("6. Like a GD Item")
     print("7: Get Comments from a Level")
     print("8: Get a user's profile")
-    print("9. Get your friends list or blocked list (requires login)\n")
+    print("9. Get your friends list or blocked list (requires login)")
+    print("10: Get GD Song Info by ID\n")
     
     def input_int(prompt, min_value=None, max_value=None):
         while True:
@@ -223,6 +225,10 @@ def mainMenu():
             return True
         list_type = input_int("Enter 0 for friends list or 1 for blocked list: ")
         getUserList.getGJUserList20(accountIDLogin, passwordLogin, list_type)
+
+    elif choice == 10:
+        songID = input_int("Enter the Song ID: ")
+        getGJSongInfo.getGJSongInfo(songID)
     
     restart_choice = input("Do you want to run the program again? (y/n): ")
     if restart_choice.lower() == 'y':
