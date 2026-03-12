@@ -15,6 +15,8 @@ Footnote: [footnote by me](#footnote)
 Literally just a GD Browser by Colon clone but i cant make a UI and its local and its command line and theres basically 5 features.
 (I kinda did manage to make a level analysis thing tho)\
 Best i can do for now LMFAO.
+(I kinda did manage to make a level analysis thing tho)\
+Best i can do for now LMFAO.
 
 ## How to use
 
@@ -33,11 +35,12 @@ please note that rate limits exist and i am NOT responsible for you getting IP b
 
 ## Bugs
 
-I am CERTAIN that this thing has at least like 359 bugs that i somehow missed when uploading ts.
+I am CERTAIN that this thing has at least like 359 bugs that i somehow missed when uploading ts.\
 Doesn't help that rob's server responses look like if a cat fell asleep on the keyboard
 
 ## Credits
 
+Thanks to wyliemaster's [GD Documentation](https://wyliemaster.github.io/gddocs/#/) website, if it wasn't for him I could NEVER figure all ts out lol
 Thanks to wyliemaster's [GD Documentation](https://wyliemaster.github.io/gddocs/#/) website, if it wasn't for him I could NEVER figure all ts out lol
 
 ## Footnote
